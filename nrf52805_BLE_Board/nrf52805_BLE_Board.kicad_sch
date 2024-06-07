@@ -2096,6 +2096,405 @@
 				)
 			)
 		)
+		(symbol "TCR3DF33 Voltage Regulator:TCR3DF33_LMCT"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "TCR3DF33_LMCT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "SOT-25   SMV_TOS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "TCR3DF33_LMCT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "TCR3DF33,LM(CT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT-25 SMV_TOS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TCR3DF33_LMCT_0_1"
+				(polyline
+					(pts
+						(xy -2.54 -12.7) (xy 0 -12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -7.62) (xy 0 -7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -15.24) (xy 0 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -15.24) (xy 0 -15.24)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 0) (xy 12.7 -15.24)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -12.7) (xy 12.7 -12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -2.54) (xy 12.7 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -2.5146 -2.54 180)
+					(length 0.0254)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.2654 -12.7 180)
+					(length 0.0254)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -2.5146 -7.62 180)
+					(length 0.0254)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -2.5146 -12.7 180)
+					(length 0.0254)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.2654 -2.54 180)
+					(length 0.0254)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:+3V3"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+3V3"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3V3\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+3V3_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3V3_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+5V"
 			(power)
 			(pin_numbers hide)
@@ -2332,6 +2731,18 @@
 		(uuid "493bc1d3-d4fd-4f22-9f46-9f45e56c27ac")
 	)
 	(junction
+		(at 149.86 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "52f00873-ea74-4169-9557-3cf895fe8445")
+	)
+	(junction
+		(at 149.86 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8dfdcea2-7a7e-4a19-b691-c41cd31f8374")
+	)
+	(junction
 		(at 223.52 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2411,6 +2822,26 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 35.56) (xy 165.1 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07d3eba5-8e3c-4365-aa69-3e9604f59916")
+	)
+	(wire
+		(pts
+			(xy 163.83 27.94) (xy 161.29 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14c99cce-3003-4525-adfd-b8c22ef8eb32")
+	)
+	(wire
+		(pts
 			(xy 234.95 38.1) (xy 241.3 38.1)
 		)
 		(stroke
@@ -2428,6 +2859,26 @@
 			(type default)
 		)
 		(uuid "1bb7c411-4ca6-484e-883e-b7f2de0eb0f1")
+	)
+	(wire
+		(pts
+			(xy 54.61 33.02) (xy 63.5 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2557f369-68ee-4bd3-8bd2-49c237743f8d")
+	)
+	(wire
+		(pts
+			(xy 54.61 27.94) (xy 63.5 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28442b17-771b-4b80-92a6-2a31654aaf08")
 	)
 	(wire
 		(pts
@@ -2461,6 +2912,26 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 27.94) (xy 149.86 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3096f7a4-4ed0-46ba-8d64-02937749c77a")
+	)
+	(wire
+		(pts
+			(xy 153.67 27.94) (xy 149.86 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34076e87-d3fb-487b-bade-9a981c13e90c")
+	)
+	(wire
+		(pts
 			(xy 218.44 78.74) (xy 218.44 83.82)
 		)
 		(stroke
@@ -2478,6 +2949,16 @@
 			(type default)
 		)
 		(uuid "41c03d81-5727-4a29-ad7a-fa044aa25ef3")
+	)
+	(wire
+		(pts
+			(xy 149.86 35.56) (xy 149.86 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4908fb45-f7a0-4489-99d4-e970da7555c5")
 	)
 	(wire
 		(pts
@@ -2551,6 +3032,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 45.72) (xy 165.1 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "747cf758-5318-48f1-9793-fe69dcf0c830")
+	)
+	(wire
+		(pts
 			(xy 229.87 55.88) (xy 241.3 55.88)
 		)
 		(stroke
@@ -2591,6 +3082,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 40.64) (xy 165.1 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c52bb5ea-a30a-4e4c-bb01-0d80b92417b2")
+	)
+	(wire
+		(pts
 			(xy 226.06 33.02) (xy 251.46 33.02)
 		)
 		(stroke
@@ -2618,6 +3119,16 @@
 			(type default)
 		)
 		(uuid "ecbbe0a9-e92a-481d-8fd6-64240387dc0a")
+	)
+	(wire
+		(pts
+			(xy 154.94 40.64) (xy 149.86 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2e03e96-72b3-4a97-9a1e-74876ef8a047")
 	)
 	(rectangle
 		(start 284.48 105.41)
@@ -2696,6 +3207,28 @@
 		)
 		(uuid "5dda91ff-9f73-4ac8-bd03-a4bfa7a4edd3")
 	)
+	(label "P012"
+		(at 58.42 27.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "719b57e7-cfac-48dc-8c60-c4900dee8374")
+	)
+	(label "P016"
+		(at 58.42 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74d23482-3698-4704-94eb-6ab28cc1e1ee")
+	)
 	(label "D-"
 		(at 229.87 53.34 0)
 		(fields_autoplaced yes)
@@ -2728,6 +3261,84 @@
 			(justify left bottom)
 		)
 		(uuid "fd035c02-8c20-4424-a0cc-5b1b49635963")
+	)
+	(symbol
+		(lib_id "TCR3DF33 Voltage Regulator:TCR3DF33_LMCT")
+		(at 167.64 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00a4a745-80b4-4c69-ad7b-6aef5ef414c2")
+		(property "Reference" "U3"
+			(at 169.672 30.988 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TCR3DF33_LMCT"
+			(at 174.498 53.594 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "SOT-25   SMV_TOS"
+			(at 167.64 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "TCR3DF33_LMCT"
+			(at 167.64 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7fdea1df-f2c5-4b3b-b48f-6484fe2ad2c3")
+		)
+		(pin "5"
+			(uuid "fd29462b-de7e-4556-bc71-c6804f064dfe")
+		)
+		(pin "4"
+			(uuid "d0e284a1-9131-4634-a844-5b5387179fa4")
+		)
+		(pin "3"
+			(uuid "86aa7672-2e0d-4eab-a36b-51109a5557c5")
+		)
+		(pin "1"
+			(uuid "24d40671-44e0-4c29-b3f8-ea67a4480c95")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -2867,7 +3478,7 @@
 	)
 	(symbol
 		(lib_id "BC805M:BC805M")
-		(at 124.46 39.37 0)
+		(at 36.83 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2876,7 +3487,7 @@
 		(fields_autoplaced yes)
 		(uuid "1dfd4a9a-32f5-4ab1-91db-345db0cd60c1")
 		(property "Reference" "U1"
-			(at 124.46 19.05 0)
+			(at 36.83 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2884,7 +3495,7 @@
 			)
 		)
 		(property "Value" "BC805M"
-			(at 124.46 21.59 0)
+			(at 36.83 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2892,7 +3503,7 @@
 			)
 		)
 		(property "Footprint" "BC805M:XCVR_BC805M"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2902,7 +3513,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2911,7 +3522,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2920,7 +3531,7 @@
 			)
 		)
 		(property "MF" "Fanstel Corp."
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2930,7 +3541,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.9mm"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2940,7 +3551,7 @@
 			)
 		)
 		(property "Package" "SMD-14 Fanstel Corp."
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2950,7 +3561,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2960,7 +3571,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/BC805M/Fanstel+Corp./view-part/?ref=eda"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2970,7 +3581,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2980,7 +3591,7 @@
 			)
 		)
 		(property "PARTREV" "1.03"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2990,7 +3601,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BC805M/Fanstel+Corp./view-part/?ref=snap"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3000,7 +3611,7 @@
 			)
 		)
 		(property "MP" "BC805M"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3010,7 +3621,7 @@
 			)
 		)
 		(property "Description_1" "\nBluetooth Bluetooth v5.2 Transceiver Module 2.4GHz PCB Trace Surface Mount\n"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3020,7 +3631,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Fanstel Corporation"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3030,7 +3641,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3040,7 +3651,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "BC805M"
-			(at 124.46 39.37 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3095,6 +3706,73 @@
 			(project "nrf52805_BLE_Board"
 				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 158.75 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "250e805f-74a2-4436-b293-236038342ece")
+		(property "Reference" "R2"
+			(at 159.004 38.354 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100K"
+			(at 158.496 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 42.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 158.75 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "054177cf-2494-466c-b39a-cbbfa79334d5")
+		)
+		(pin "2"
+			(uuid "a6858a9d-a715-411e-839e-8572a01ef0d6")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -3161,6 +3839,72 @@
 			(project "nrf52805_BLE_Board"
 				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 182.88 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30476009-1fe6-4443-b089-c0f4009b1f4f")
+		(property "Reference" "#PWR014"
+			(at 182.88 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 182.88 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 182.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ffec2d90-51ab-4795-8026-2a82e714683a")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -3649,6 +4393,209 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:L")
+		(at 157.48 27.94 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "611d4524-b15b-4638-b6c0-fdc8bb464bea")
+		(property "Reference" "L2"
+			(at 157.48 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "120 Ohm"
+			(at 157.48 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 157.48 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 157.48 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "37c44466-80fa-4003-8979-bf200ab7b125")
+		)
+		(pin "2"
+			(uuid "65872edf-15e3-4339-afba-9d0421d4cee8")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 149.86 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6597543f-266d-4623-a47a-7109e1ca4951")
+		(property "Reference" "C6"
+			(at 144.526 41.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF 10V"
+			(at 138.938 45.212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 149.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 149.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7e0d290e-95d6-4e2c-bdd5-fc8686b978f9")
+		)
+		(pin "2"
+			(uuid "1da3e944-eb54-4d31-a1b5-8ecacd1c6359")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 182.88 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8109740c-b679-484a-800f-7e168bd5d23e")
+		(property "Reference" "#PWR015"
+			(at 182.88 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 182.88 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 182.88 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e56d28ab-c035-4cc6-abf9-4b536ea72c2a")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 254 30.48 0)
 		(unit 1)
@@ -4104,6 +5051,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 149.86 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb38d7d0-a911-4967-b33a-26d10a06a5c4")
+		(property "Reference" "#PWR012"
+			(at 149.86 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 149.86 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 149.86 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "28f47cf1-560c-4fc6-b62b-fa05e74f1f92")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 234.95 40.64 0)
 		(unit 1)
@@ -4241,6 +5254,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 158.75 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9e39faa-8c48-47ae-bb1e-ea13b2e61d29")
+		(property "Reference" "#PWR013"
+			(at 158.75 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 158.75 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c3aba796-2e18-4af4-b7ec-fd90eddd8c2e")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 215.9 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4300,6 +5379,72 @@
 			(project "nrf52805_BLE_Board"
 				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 163.83 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ede0b362-8897-4e74-9a01-c76bf9592caa")
+		(property "Reference" "#PWR011"
+			(at 163.83 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 163.83 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.83 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 163.83 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef73b49c-884d-44af-977a-18f24bde9bde")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -4593,6 +5738,75 @@
 			(project "nrf52805_BLE_Board"
 				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 158.75 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffa1e983-7ef5-4b46-aa9e-d77f37b6e0af")
+		(property "Reference" "C5"
+			(at 154.178 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF 10V"
+			(at 160.274 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 158.75 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65386936-728f-4855-ad5a-1a27db5cfce2")
+		)
+		(pin "2"
+			(uuid "b89b50cd-6791-46af-a206-e47aa1862858")
+		)
+		(instances
+			(project "nrf52805_BLE_Board"
+				(path "/6c080f0d-9f4f-470a-a6ed-d55be023a0b7"
+					(reference "C5")
 					(unit 1)
 				)
 			)
