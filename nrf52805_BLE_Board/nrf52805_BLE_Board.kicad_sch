@@ -7020,7 +7020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT-25   SMV_TOS"
+		(property "Footprint" "TCR3DF33 Voltage Regulator:SOT-25   SMV_TOS"
 			(at 156.1846 38.1 0)
 			(effects
 				(font
@@ -7101,7 +7101,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 207.01 36.83 0)
 			(effects
 				(font
@@ -7168,7 +7168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "KMR221GLFS:SW_KMR221GLFS"
+		(property "Footprint" "SMT Momentary Push Button:SW_KMR221GLFS"
 			(at 146.05 140.97 0)
 			(effects
 				(font
@@ -7636,7 +7636,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 147.2946 47.498 90)
 			(effects
 				(font
@@ -7705,7 +7705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_3220-10-0100-00_CNC"
+		(property "Footprint" "10 Pin Small JTAG Connector:CONN_3220-10-0100-00_CNC"
 			(at 156.21 86.36 0)
 			(effects
 				(font
@@ -7931,7 +7931,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 255.27 74.168 90)
 			(effects
 				(font
@@ -8066,7 +8066,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 74.93 83.82 0)
 			(effects
 				(font
@@ -8681,7 +8681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CM9V-T1A-32.768KHZ-9PF-20PPM-TA-QC:XTAL_CM9V-T1A-32.768KHZ-9PF-20PPM-TA-QC"
+		(property "Footprint" "CM9V-T1A-32.768KHZ-9PF-20PPM-TA-QC 32.768kHz Crystal:XTAL_CM9V-T1A-32.768KHZ-9PF-20PPM-TA-QC"
 			(at 68.58 78.74 0)
 			(effects
 				(font
@@ -8881,7 +8881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TSW-107-23-H-S:SAMTEC_TSW-107-23-H-S"
+		(property "Footprint" "7 Position 2.54mm Header (TSW-107-23-H-S):SAMTEC_TSW-107-23-H-S"
 			(at 92.71 121.92 0)
 			(effects
 				(font
@@ -9075,7 +9075,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 146.0246 33.02 0)
 			(effects
 				(font
@@ -9210,7 +9210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 138.4046 48.26 0)
 			(effects
 				(font
@@ -9412,7 +9412,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 234.95 39.37 0)
 			(effects
 				(font
@@ -9481,7 +9481,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TSW-103-23-H-S:SAMTEC_TSW-103-23-H-S"
+		(property "Footprint" "3 Position 2.54mm Header (TSW-103-23-H-S):SAMTEC_TSW-103-23-H-S"
 			(at 49.53 166.37 0)
 			(effects
 				(font
@@ -9662,7 +9662,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 59.69 85.598 90)
 			(effects
 				(font
@@ -9729,7 +9729,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_LTST-C_LTO"
+		(property "Footprint" "2.8V 20mA Blue LED (0603):LED_LTST-C_LTO"
 			(at 236.22 140.97 0)
 			(effects
 				(font
@@ -9866,7 +9866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 74.93 73.66 0)
 			(effects
 				(font
@@ -9934,7 +9934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 198.12 41.91 0)
 			(effects
 				(font
@@ -10002,7 +10002,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 199.39 59.69 0)
 			(effects
 				(font
@@ -10204,7 +10204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 215.9 49.53 0)
 			(effects
 				(font
@@ -10273,7 +10273,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 90.17 33.02 0)
 			(effects
 				(font
@@ -10408,7 +10408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TSW-107-23-H-S:SAMTEC_TSW-107-23-H-S"
+		(property "Footprint" "7 Position 2.54mm Header (TSW-107-23-H-S):SAMTEC_TSW-107-23-H-S"
 			(at 52.07 121.92 0)
 			(effects
 				(font
@@ -10799,7 +10799,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 232.41 142.748 90)
 			(effects
 				(font
@@ -11198,7 +11198,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "10118194-0001LF:AMPHENOL_10118194-0001LF"
+		(property "Footprint" "Micro USB Port:AMPHENOL_10118194-0001LF"
 			(at 102.87 168.91 0)
 			(effects
 				(font
@@ -11489,7 +11489,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 59.69 75.438 90)
 			(effects
 				(font
@@ -11558,7 +11558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 147.2946 53.34 0)
 			(effects
 				(font
