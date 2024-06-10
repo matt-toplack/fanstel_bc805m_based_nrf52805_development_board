@@ -1,4 +1,32 @@
-23334566863775695
+23350024901029166
+2.8V 20mA Blue LED (0603)
+LED_LTST-C_LTO
+
+LTST-C193TBKT-5A 
+0
+2
+2
+3 Position 2.54mm Header (TSW-103-23-H-S)
+SAMTEC_TSW-103-23-H-S
+
+
+0
+3
+3
+7 Position 2.54mm Header (TSW-107-23-H-S)
+SAMTEC_TSW-107-23-H-S
+
+
+0
+7
+7
+10 Pin Small JTAG Connector
+CONN_3220-10-0100-00_CNC
+
+3220-10-0100-00 
+0
+10
+10
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +41,13 @@ audio belton reverb
 0
 7
 7
+BC805M
+XCVR_BC805M
+
+
+0
+14
+14
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2523,6 +2558,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CM9V-T1A-32.768KHZ-9PF-20PPM-TA-QC 32.768kHz Crystal
+XTAL_CM9V-T1A-32.768KHZ-9PF-20PPM-TA-QC
+
+
 0
 2
 2
@@ -63636,6 +63678,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Micro USB Port
+AMPHENOL_10118194-0001LF
+
+
+0
+11
+11
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -87632,6 +87681,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SMT Momentary Push Button
+SW_KMR221GLFS
+
+
+0
+5
+5
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -89284,6 +89340,13 @@ Logo WEEE
 0
 0
 0
+TCR3DF33 Voltage Regulator
+SOT-25   SMV_TOS
+
+TCR3DF33_LMCT 
+0
+5
+5
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
