@@ -13,6 +13,13 @@ Currently, the only widely available BC805M evaluation board is Fanstel's EV-BC8
 
 This evaluation board is designed to be the same dimensions as Adafruit's Feather platform, but without the rounded corners or the screw holes. The physical size is where the similarities end though, as the through-hole header pin placement and order does not match that of Adafruit's standards. It simply was not practical to try to make it pin-compatible for this design.
 
+## Schematic
+As mentioned below in the Design Reference section of this readme, I used Fanstel's EV-BC805M as a reference schematic for this project. Below, you will find an image of my schematic. In the top level of this repository, a PDF version is included.
+
+![Schematic](/img/revA_Schematic.PNG)
+
+Schematic
+
 ## Board Design
 
 As previously mentioned, Adafruit's Feather dimensions were used as a convenient size for this board. Below you will find screenshots of the PCB Layout for both the Top, Bottom, and Top Silkscreen Layers, a 3D View of the Top and Bottom of the Board (Coming Soon), and images of the Top and Bottom of the physical PCB and PCBA (Coming Soon).
@@ -31,7 +38,7 @@ PCB Top Silkscreen Layer
 
 ## Design References
 
-This design is heavily based on Fanstel's EV-BC805M reference design, but with a few exceptions. The main differences stem from the lack of switches that connect/disconnect parts of the circuit for current measuring. Unfortunately, Fanstel's documentation for the BC805M module doesn't contain much information related to layout guidelines/suggestions, so I applied general PCB layout best practices. 
+This design is heavily based on the schematic of Fanstel's EV-BC805M reference design, but with a few exceptions. The main differences stem from the lack of switches that connect/disconnect parts of the circuit for current measuring. Unfortunately, Fanstel's documentation for the BC805M module doesn't contain much information related to layout guidelines/suggestions, so I applied general PCB layout best practices. 
 
 ## Design Time
 
