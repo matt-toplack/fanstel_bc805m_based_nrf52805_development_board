@@ -5,7 +5,7 @@
 	(uuid "6c080f0d-9f4f-470a-a6ed-d55be023a0b7")
 	(paper "A4")
 	(title_block
-		(title "Fanstel_BC805M_Based_nRF52805_Evaluation_Board")
+		(title "Fanstel_BC805M_Based_nRF52805_Development_Board")
 		(date "2024-06-18")
 		(rev "A")
 		(company "Matthew T. Toplack Design")
