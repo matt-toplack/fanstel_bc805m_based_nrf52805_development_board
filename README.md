@@ -18,12 +18,15 @@ This evaluation board is designed to be the same dimensions as Adafruit's Feathe
 As previously mentioned, Adafruit's Feather dimensions were used as a convenient size for this board. Below you will find screenshots of the PCB Layout for both the Top, Bottom, and Top Silkscreen Layers, a 3D View of the Top and Bottom of the Board (Coming Soon), and images of the Top and Bottom of the physical PCB and PCBA (Coming Soon).
 
 ![PCB_Top](/img/revA_PCB_Top.PNG)
+
 PCB Top Layer
 
 ![PCB_Bottom](/img/revA_PCB_Bottom.PNG)
+
 PCB Bottom Layer
 
 ![PCB_Top_Silkscreenm](/img/revA_PCB_Top_Silkscreen.PNG)
+
 PCB Top Silkscreen Layer
 
 ## Design References
