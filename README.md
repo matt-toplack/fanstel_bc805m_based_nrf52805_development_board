@@ -1,4 +1,4 @@
-# Fanstel BC805M Based nRF52805 Evaluation Board
+# Fanstel BC805M Based nRF52805 Development Board
 
 ## Software Requirements
 KiCad 8.0
@@ -11,7 +11,7 @@ Currently, the only widely available BC805M evaluation board is Fanstel's EV-BC8
 
 ## Physical Size
 
-This evaluation board is designed to be the same dimensions as Adafruit's Feather platform, but without the rounded corners or the screw holes. The physical size is where the similarities end though, as the through-hole header pin placement and order does not match that of Adafruit's standards. It simply was not practical to try to make it pin-compatible for this design.
+This development board is designed to be the same dimensions as Adafruit's Feather platform, but without the rounded corners or the screw holes. The physical size is where the similarities end though, as the through-hole header pin placement and order does not match that of Adafruit's standards. It simply was not practical to try to make it pin-compatible for this design.
 
 ## Schematic
 As mentioned below in the Design Reference section of this readme, I used Fanstel's EV-BC805M as a reference schematic for this project. Below, you will find an image of my schematic. In the top level of this repository, a PDF version is included.
