@@ -1,4 +1,4 @@
-# Fanstel BC805M Based nRF52805 Development Board
+# Fanstel BC805M Based nRF52805 Evaluation Board
 
 ## Software Requirements
 KiCad 8.0
