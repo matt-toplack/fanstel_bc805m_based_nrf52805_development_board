@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "6c080f0d-9f4f-470a-a6ed-d55be023a0b7")
 	(paper "A4")
+	(title_block
+		(title "Fanstel_BC805M_Based_nRF52805_Evaluation_Board")
+		(date "2024-06-18")
+		(rev "A")
+		(company "Matthew T. Toplack Design")
+	)
 	(lib_symbols
 		(symbol "10 Pin Small JTAG Connector:3220-10-0100-00"
 			(pin_names
@@ -6585,6 +6591,16 @@
 		)
 		(uuid "07e2fd54-81e0-4f1b-a0d9-86cd8f4d1c66")
 	)
+	(text "Fiducials"
+		(exclude_from_sim no)
+		(at 152.908 171.45 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+		)
+		(uuid "41009b6c-3282-4772-90fc-a82a75424342")
+	)
 	(text "Voltage Regulator"
 		(exclude_from_sim no)
 		(at 153.6446 23.876 0)
@@ -8209,16 +8225,16 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 138.43 180.34 0)
+		(at 142.24 177.8 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41f35850-d53c-4f5a-8b70-9a7b4833488f")
 		(property "Reference" "FD1"
-			(at 140.97 179.0699 0)
+			(at 144.78 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8227,7 +8243,7 @@
 			)
 		)
 		(property "Value" "Fiducial"
-			(at 140.97 181.6099 0)
+			(at 144.78 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8236,7 +8252,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
-			(at 138.43 180.34 0)
+			(at 142.24 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8245,7 +8261,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 180.34 0)
+			(at 142.24 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8254,7 +8270,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 138.43 180.34 0)
+			(at 142.24 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9938,16 +9954,16 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 153.67 180.34 0)
+		(at 157.48 177.8 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9150af0f-db7b-4ad5-a77c-7a378f92874e")
 		(property "Reference" "FD2"
-			(at 156.21 179.0699 0)
+			(at 160.02 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9956,7 +9972,7 @@
 			)
 		)
 		(property "Value" "Fiducial"
-			(at 156.21 181.6099 0)
+			(at 160.02 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9965,7 +9981,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
-			(at 153.67 180.34 0)
+			(at 157.48 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9974,7 +9990,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 180.34 0)
+			(at 157.48 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9983,7 +9999,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 153.67 180.34 0)
+			(at 157.48 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
