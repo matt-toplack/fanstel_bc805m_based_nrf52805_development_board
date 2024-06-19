@@ -33,6 +33,12 @@ PCB Top Silkscreen Layer
 
 This design is heavily based on Fanstel's EV-BC805M reference design, but with a few exceptions. The main differences stem from the lack of switches that connect/disconnect parts of the circuit for current measuring. Unfortunately, Fanstel's documentation for the BC805M module doesn't contain much information related to layout guidelines/suggestions, so I applied general PCB layout best practices. 
 
+## Design Time
+
+This board took me approximately 8-10 hours of time to complete the schematic and board layout, but some of this was spent learning KiCad, as this was my first time using it. I have prior experience using Altium, but KiCad was particularly attractive for personal projects due to the fact that it is free. 
+
+This documentation took approximately 30 minutes start to finish.
+
 ## Designer
 
 Matthew T. Toplack - 2024
